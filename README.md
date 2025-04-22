@@ -1,6 +1,6 @@
 # 🟥 Checkers Game – OOP in C#
 
-A desktop Checkers (Dama) game written in C# using object-oriented programming principles such as inheritance and polymorphism.  
+A Checkers game developed in C# using object-oriented programming principles such as inheritance and polymorphism.  
 The game supports both **Human vs Human** and **Human vs Computer** modes and includes a simple text-based UI.
 
 ## 🎮 Features
